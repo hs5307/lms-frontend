@@ -66,7 +66,7 @@
 
 ### Configure auto import sort eslint
 
-1. Install simple import sort
+1. Install simple import sore
 ...
    npm i -D eslint-plugin-simple-import-sort
 ...
